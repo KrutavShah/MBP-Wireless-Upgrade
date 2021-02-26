@@ -55,7 +55,7 @@ PCIE_CLK100M_AP_P
 Text Notes 6700 900  0    50   ~ 0
 AIRPORT
 Text Notes 550  1650 0    50   ~ 0
-Newer devices use power state S4 to save more power. \nWe will use S3 state as that is what's available on Unibody Macbooks.\n\nMacBook Air, Pro, and iMac 2013-2015 models have the same exact wireless connector, \nso the adapter can accept any of the different Wireless cards across all 3 models.\nThe iMac card is the larger of the 3, with 4 antenna connectors.\niMac card is recommended as it comes with the correct antenna connector size.\nThe MBPro is in the middle in terms of size, and has 3 antenna connectors.\nThe MBAir is the smallest and has 2 antenna connectors.\nThe MacBook wireless cards have smaller antenna connectors,\nso you will need to desolder them and solder the larger ones from the\nold wireless card in your Unibody MacBook.
+Newer devices use power state S4 to save more power. \nWe will use S3 state as that is what's available on Unibody Macbooks.\n\nMacBook Air, Pro, and iMac 2013-2015 models have the same exact wireless connector, \nso the adapter can accept any of the different Wireless cards across all 3 models.\nThe iMac card is the larger of the 3, with 4 antenna connectors.\niMac card is recommended as it comes with the correct antenna connector size.\nThe MBPro is in the middle in terms of size, and has 3 antenna connectors.\nThe MBAir is the smallest and has 2 antenna connectors.\nThe MacBook wireless cards have smaller antenna connectors,\nso you will need to desolder them and solder the larger ones from the\nold wireless card in your Unibody MacBook. (UFL connector)
 Text Notes 6350 750  0    50   ~ 0
 Unibody Logic Board Connector:
 Text Notes 550  650  0    50   ~ 10
