@@ -356,7 +356,7 @@ Wire Notes Line
 Text Notes 700  5000 0    50   ~ 10
 Unibody MacBook Logic Board Connector:
 Text Notes 700  5350 0    50   ~ 0
-The part featured here is a connector \nfrom Mouser. Part number is listed\nunder net label. This is not part of the \nadapter, it is for reference.
+The part featured here is a connector \nfrom Molex. Part number is listed\nunder net label. This is not part of the \nadapter, it is for reference.
 Wire Wire Line
 	1550 2800 1450 2800
 Wire Wire Line
