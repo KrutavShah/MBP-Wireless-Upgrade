@@ -11,14 +11,13 @@ Well if you're like me and don't want to shell out a lot of money for one of App
 The improvements:
   Access to 802.11 AC WiFi for speeds up to 1.3Gbps
   Bluetooth 4.2 for improved range and speeds, as well as compatibility with more devices
+  
 ## Licensing information
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
 This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
