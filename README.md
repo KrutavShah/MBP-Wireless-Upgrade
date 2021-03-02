@@ -22,7 +22,7 @@ The improvements:
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License][cc-by-nc-nd].
 
-Distribution of this product without credit is not allowed. For commercial usage of this project, the express permission of the project maintainer is necessary.
+Distribution and modification of this project without giving proper credits is not allowed. For commercial usage of this project, the express permission of the project maintainer is necessary.
 
 [![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
 
