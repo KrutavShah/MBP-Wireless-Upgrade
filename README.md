@@ -7,7 +7,7 @@ This GitHub page contains schematics and models that you can use to buid your ve
 Macbooks manufactured prior to the 2nd half of 2012 like the 2011 MacBook Pro 15 inch include a WiFi + Bluetooth card that is considered to be lacking in functionality compared to today's standards. WiFi speed on these older cards top out at 450Mbps, which is a lot less than what most wireless routers are capable of today. In addition, the Bluetooth version is 3.0 on all models manufactured prior to 2012, something that may become problematic with newer devices and AirDrop.
 
 ## What is the progress so far?
-Currently, a prototype for the MacBook 17 inch is available and we will continue developing this to make sure everything works fine and is compatible.
+Tthe Universal Adapter for all MacBooks is available for download and fabrication by downloadin the zip fle in the releases section. Upload it to JLCPCB and select the options that suit you best, such as your desired PCB thickness, PCB color, and specify the order number location so that it is printed where it's not visible. 
 
 ![Picture of the adapter MacBook 17-inch Adapter.](/Images/AdapterPrototype17inch.PNG "Picture of the adapter MacBook 17-inch Adapter.")
 
