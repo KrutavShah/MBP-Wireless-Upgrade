@@ -7,9 +7,9 @@ This GitHub page contains schematics and models that you can use to buid your ve
 Macbooks manufactured prior to the 2nd half of 2012 like the 2011 MacBook Pro 15 inch include a WiFi + Bluetooth card that is considered to be lacking in functionality compared to today's standards. WiFi speed on these older cards top out at 450Mbps, which is a lot less than what most wireless routers are capable of today. In addition, the Bluetooth version is 3.0 on all models manufactured prior to 2012, something that may become problematic with newer devices and AirDrop.
 
 ## What is the progress so far?
-Currently, a prototype for the MacBook 17 inch is available and we will continue developing this to make sure everything works fine and is compatible.
+Tthe Universal Adapter for all MacBooks is available for download and fabrication by downloadin the zip fle in the releases section. Upload it to JLCPCB and select the options that suit you best, such as your desired PCB thickness, PCB color, and specify the order number location so that it is printed where it's not visible. 
 
-![Picture of the adapter MacBook 17-inch Adapter.](/Images/AdapterPrototype17inch.PNG "Picture of the adapter MacBook 17-inch Adapter.")
+![Picture of the MacBook Pro Universal Adapter.](/Images/MBPUniversalAdapter.PNG "Picture of the MacBook Pro Universal Adapter.")
 
 ## So why should you upgrade your MacBook if it is a decade old?
 Well if you're like me and don't want to shell out a lot of money for one of Apple's new offerings, this upgrade can allow you to hold on to your MacBook for longer. With this upgrade, you get a newer version of Bluetooth 4 which allows you to use AirDrop and connect to most modern devices. You also get a much faster WiFi unit which can allow you to achieve speeds of over 1 Gigabit and take full potential of your home network.
