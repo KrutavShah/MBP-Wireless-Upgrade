@@ -20,61 +20,61 @@ Notes:
 Text Notes 1250 2550 0    50   ~ 10
 Unibody to Standard Wireless Card Adapter: (Variant 1: Edge Board Connector)
 Wire Wire Line
-	9000 4850 9000 4950
+	9000 4700 9000 4800
 $Comp
 L power:GND #PWR0103
 U 1 1 60212EDD
-P 9000 4950
-F 0 "#PWR0103" H 9000 4700 50  0001 C CNN
-F 1 "GND" H 9005 4777 50  0000 C CNN
-F 2 "" H 9000 4950 50  0001 C CNN
-F 3 "" H 9000 4950 50  0001 C CNN
-	1    9000 4950
+P 9000 4800
+F 0 "#PWR0103" H 9000 4550 50  0001 C CNN
+F 1 "GND" H 9005 4627 50  0000 C CNN
+F 2 "" H 9000 4800 50  0001 C CNN
+F 3 "" H 9000 4800 50  0001 C CNN
+	1    9000 4800
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	8900 4850 9000 4850
+	8900 4700 9000 4700
 Wire Wire Line
-	9000 4850 9000 4750
+	9000 4700 9000 4600
 Wire Wire Line
-	9000 4550 8900 4550
+	9000 4400 8900 4400
 Wire Wire Line
-	8900 4650 9000 4650
-Connection ~ 9000 4650
+	8900 4500 9000 4500
+Connection ~ 9000 4500
 Wire Wire Line
-	9000 4650 9000 4550
+	9000 4500 9000 4400
 Wire Wire Line
-	8900 4750 9000 4750
-Connection ~ 9000 4750
+	8900 4600 9000 4600
+Connection ~ 9000 4600
 Wire Wire Line
-	9000 4750 9000 4650
-Connection ~ 9000 4850
+	9000 4600 9000 4500
+Connection ~ 9000 4700
 Wire Wire Line
-	7800 3850 7900 3850
+	7800 3700 7900 3700
 Wire Wire Line
-	7900 4450 7800 4450
+	7900 4300 7800 4300
 Wire Wire Line
-	7800 4450 7800 3850
+	7800 4300 7800 3700
 Wire Wire Line
-	7900 4750 7800 4750
+	7900 4600 7800 4600
 Wire Wire Line
-	7800 4750 7800 4450
-Connection ~ 7800 4450
+	7800 4600 7800 4300
+Connection ~ 7800 4300
 Wire Wire Line
-	8900 3250 9000 3250
+	8900 3100 9000 3100
 Wire Wire Line
-	9000 3250 9000 3350
-Connection ~ 9000 4550
+	9000 3100 9000 3200
+Connection ~ 9000 4400
 Wire Wire Line
-	8900 3450 9000 3450
-Connection ~ 9000 3450
+	8900 3300 9000 3300
+Connection ~ 9000 3300
 Wire Wire Line
-	9000 3450 9000 3950
+	9000 3300 9000 3800
 Wire Wire Line
-	8900 3350 9000 3350
-Connection ~ 9000 3350
+	8900 3200 9000 3200
+Connection ~ 9000 3200
 Wire Wire Line
-	9000 3350 9000 3450
+	9000 3200 9000 3300
 $Comp
 L SamacSys_Parts:501745-0301 J1
 U 1 1 6022214E
@@ -95,133 +95,133 @@ $EndComp
 $Comp
 L SamacSys_Parts:500913-0302 J3401
 U 1 1 60225281
-P 7900 3250
-F 0 "J3401" H 8400 3515 50  0000 C CNN
-F 1 "Molex 500913-0302" H 8400 3424 50  0000 C CNN
-F 2 "5009130302" H 8750 3350 50  0001 L CNN
-F 3 "http://docs-emea.rs-online.com/webdocs/0f75/0900766b80f75290.pdf" H 8750 3250 50  0001 L CNN
-F 4 "Molex SLIMSTACK Series 0.4mm 30 Way 2 Row Straight PCB Socket Surface Mount Board to Board" H 8750 3150 50  0001 L CNN "Description"
-F 5 "2" H 8750 3050 50  0001 L CNN "Height"
-F 6 "Molex" H 8750 2950 50  0001 L CNN "Manufacturer_Name"
-F 7 "500913-0302" H 8750 2850 50  0001 L CNN "Manufacturer_Part_Number"
-F 8 "538-500913-0302" H 8750 2750 50  0001 L CNN "Mouser Part Number"
-F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=538-500913-0302" H 8750 2650 50  0001 L CNN "Mouser Price/Stock"
-F 10 "" H 8750 2550 50  0001 L CNN "Arrow Part Number"
-F 11 "" H 8750 2450 50  0001 L CNN "Arrow Price/Stock"
-	1    7900 3250
+P 7900 3100
+F 0 "J3401" H 8400 3365 50  0000 C CNN
+F 1 "Molex 500913-0302" H 8400 3274 50  0000 C CNN
+F 2 "5009130302" H 8750 3200 50  0001 L CNN
+F 3 "http://docs-emea.rs-online.com/webdocs/0f75/0900766b80f75290.pdf" H 8750 3100 50  0001 L CNN
+F 4 "Molex SLIMSTACK Series 0.4mm 30 Way 2 Row Straight PCB Socket Surface Mount Board to Board" H 8750 3000 50  0001 L CNN "Description"
+F 5 "2" H 8750 2900 50  0001 L CNN "Height"
+F 6 "Molex" H 8750 2800 50  0001 L CNN "Manufacturer_Name"
+F 7 "500913-0302" H 8750 2700 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "538-500913-0302" H 8750 2600 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=538-500913-0302" H 8750 2500 50  0001 L CNN "Mouser Price/Stock"
+F 10 "" H 8750 2400 50  0001 L CNN "Arrow Part Number"
+F 11 "" H 8750 2300 50  0001 L CNN "Arrow Price/Stock"
+	1    7900 3100
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7900 3250 7800 3250
+	7900 3100 7800 3100
 Wire Wire Line
-	7800 3250 7800 3350
-Connection ~ 7800 3850
+	7800 3100 7800 3200
+Connection ~ 7800 3700
 Wire Wire Line
-	7900 3350 7800 3350
-Connection ~ 7800 3350
+	7900 3200 7800 3200
+Connection ~ 7800 3200
 Wire Wire Line
-	7800 3350 7800 3850
+	7800 3200 7800 3700
 Wire Wire Line
-	8900 3950 9000 3950
-Connection ~ 9000 3950
+	8900 3800 9000 3800
+Connection ~ 9000 3800
 Wire Wire Line
-	9000 3950 9000 4550
+	9000 3800 9000 4400
 Wire Wire Line
-	8900 4450 9250 4450
+	8900 4300 9250 4300
 Wire Wire Line
-	8900 4250 9250 4250
+	8900 4100 9250 4100
 Wire Wire Line
-	8900 4050 9250 4050
+	8900 3900 9250 3900
 Wire Wire Line
-	8900 3850 9250 3850
+	8900 3700 9250 3700
 Wire Wire Line
-	8900 3650 9250 3650
+	8900 3500 9250 3500
 Wire Wire Line
-	9250 4450 9250 4350
+	9250 4300 9250 4200
 Wire Wire Line
-	9250 4050 9250 4250
-Connection ~ 9250 4250
+	9250 3900 9250 4100
+Connection ~ 9250 4100
 Wire Wire Line
-	9250 4050 9250 3850
-Connection ~ 9250 4050
+	9250 3900 9250 3700
+Connection ~ 9250 3900
 Wire Wire Line
-	9250 3850 9250 3650
-Connection ~ 9250 3850
+	9250 3700 9250 3500
+Connection ~ 9250 3700
 Wire Wire Line
-	8900 4350 9250 4350
-Connection ~ 9250 4350
+	8900 4200 9250 4200
+Connection ~ 9250 4200
 Wire Wire Line
-	9250 4350 9250 4250
+	9250 4200 9250 4100
 Wire Wire Line
-	9250 4450 9250 4550
-Connection ~ 9250 4450
-Text GLabel 9250 4550 3    50   UnSpc ~ 0
+	9250 4300 9250 4400
+Connection ~ 9250 4300
+Text GLabel 9250 4400 3    50   UnSpc ~ 0
 PP3V3_WLAN
 Wire Wire Line
-	8900 4150 9400 4150
-Text GLabel 9400 4450 3    50   UnSpc ~ 0
+	8900 4000 9400 4000
+Text GLabel 9400 4300 3    50   UnSpc ~ 0
 PP3V3_S3_BT_F
 Wire Wire Line
-	9400 4150 9400 4450
-Text GLabel 9300 3500 1    50   BiDi ~ 0
+	9400 4000 9400 4300
+Text GLabel 9300 3350 1    50   BiDi ~ 0
 USB_BT_N
-Text GLabel 9150 3500 1    50   BiDi ~ 0
+Text GLabel 9150 3350 1    50   BiDi ~ 0
 USB_BT_P
 Wire Wire Line
-	8900 3750 9300 3750
+	8900 3600 9300 3600
 Wire Wire Line
-	9300 3750 9300 3500
+	9300 3600 9300 3350
 Wire Wire Line
-	9150 3500 9150 3550
+	9150 3350 9150 3400
 Wire Wire Line
-	9150 3550 8900 3550
+	9150 3400 8900 3400
 Wire Wire Line
-	7900 3450 7600 3450
+	7900 3300 7600 3300
 Wire Wire Line
-	7900 3650 7600 3650
+	7900 3500 7600 3500
 Wire Wire Line
-	7900 3550 7600 3550
-Text GLabel 7600 3550 0    50   Input ~ 0
+	7900 3400 7600 3400
+Text GLabel 7600 3400 0    50   Input ~ 0
 AP_RESET_CONN_L
 Wire Wire Line
-	7900 3950 7600 3950
-Text GLabel 7600 3950 0    50   Output ~ 0
+	7900 3800 7600 3800
+Text GLabel 7600 3800 0    50   Output ~ 0
 AP_CLKREQ_Q_L
 Wire Wire Line
-	7900 3750 7600 3750
-Text GLabel 7600 3750 0    50   Output ~ 0
+	7900 3600 7600 3600
+Text GLabel 7600 3600 0    50   Output ~ 0
 PCIE_WAKE_L
-Text GLabel 7600 3650 0    50   Output ~ 0
+Text GLabel 7600 3500 0    50   Output ~ 0
 PCIE_AP_D2R_PI_N
-Text GLabel 7600 3450 0    50   Output ~ 0
+Text GLabel 7600 3300 0    50   Output ~ 0
 PCIE_AP_D2R_PI_P
 Wire Wire Line
-	7900 4050 7600 4050
+	7900 3900 7600 3900
 Wire Wire Line
-	7900 4150 7600 4150
+	7900 4000 7600 4000
 Wire Wire Line
-	7900 4250 7600 4250
+	7900 4100 7600 4100
 Wire Wire Line
-	7900 4350 7600 4350
+	7900 4200 7600 4200
 Wire Wire Line
-	7900 4550 7600 4550
+	7900 4400 7600 4400
 Wire Wire Line
-	7900 4650 7600 4650
+	7900 4500 7600 4500
 Wire Wire Line
-	7900 4850 7600 4850
-Text GLabel 7600 4050 0    50   Input ~ 0
+	7900 4700 7600 4700
+Text GLabel 7600 3900 0    50   Input ~ 0
 PCIE_CLK100M_AP_CONN_P
-Text GLabel 7600 4250 0    50   Input ~ 0
+Text GLabel 7600 4100 0    50   Input ~ 0
 PCIE_CLK100M_AP_CONN_N
-Text GLabel 7600 4150 0    50   BiDi ~ 0
+Text GLabel 7600 4000 0    50   BiDi ~ 0
 WIFI_EVENT_L
-Text GLabel 7600 4350 0    50   Input ~ 0
+Text GLabel 7600 4200 0    50   Input ~ 0
 SMBUS_SMC_0_S0_SCL
-Text GLabel 7600 4550 0    50   BiDi ~ 0
+Text GLabel 7600 4400 0    50   BiDi ~ 0
 SMBUS_SMC_0_S0_SDA
-Text GLabel 7600 4650 0    50   Input ~ 0
+Text GLabel 7600 4500 0    50   Input ~ 0
 PCIE_AP_D2R_N
-Text GLabel 7600 4850 0    50   Input ~ 0
+Text GLabel 7600 4700 0    50   Input ~ 0
 PCIE_AP_D2R_P
 Wire Notes Line
 	6150 2600 6150 5250
@@ -236,21 +236,8 @@ Unibody MacBook Logic Board Connector:
 Text Notes 6200 3050 0    50   ~ 0
 The part featured here is a connector \nfrom Molex. Part number is listed\nunder net label. This is not part of the \nadapter, it is for reference.
 Wire Wire Line
-	2100 3400 2000 3400
-Wire Wire Line
-	3200 4600 3300 4600
-Wire Wire Line
 	3300 3900 3200 3900
-Wire Wire Line
-	3200 3700 3300 3700
-Wire Wire Line
-	3300 3700 3300 3800
 Connection ~ 3300 3900
-Wire Wire Line
-	3200 3800 3300 3800
-Connection ~ 3300 3800
-Wire Wire Line
-	3300 3800 3300 3900
 Wire Wire Line
 	2600 2900 2600 2850
 Wire Wire Line
@@ -264,16 +251,10 @@ Wire Wire Line
 Wire Wire Line
 	2700 4950 2700 4900
 Wire Wire Line
-	3300 4600 3300 4950
-Wire Wire Line
 	3300 4950 2700 4950
-Connection ~ 3300 4600
 Connection ~ 2700 4950
 Wire Wire Line
-	2000 3400 2000 3700
-Wire Wire Line
 	2000 4950 2600 4950
-Connection ~ 2000 3400
 Connection ~ 2600 4950
 Wire Wire Line
 	2100 3700 2000 3700
@@ -281,15 +262,10 @@ Connection ~ 2000 3700
 Wire Wire Line
 	2000 3700 2000 4000
 Wire Wire Line
-	2000 3400 2000 2850
-Wire Wire Line
 	2000 2850 2600 2850
 Connection ~ 2600 2850
 Wire Wire Line
-	3300 3700 3300 2850
-Wire Wire Line
 	3300 2850 2700 2850
-Connection ~ 3300 3700
 Connection ~ 2700 2850
 Wire Wire Line
 	2100 4300 2000 4300
@@ -308,28 +284,18 @@ U 1 1 60322F5B
 P 4600 3850
 F 0 "P1" H 5218 3846 50  0000 C CNN
 F 1 "AdapterPCIEContacts" H 5218 3755 50  0000 C CNN
-F 2 "" H 4600 4900 50  0001 C CNN
+F 2 "MBPWirelessUpgrade:Edge Connector" H 4600 4900 50  0001 C CNN
 F 3 "" H 4600 4900 50  0001 C CNN
 	1    4600 3850
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4000 4500 4000 4350
-Wire Wire Line
-	4000 4350 4450 4350
-Wire Wire Line
-	3200 4500 4000 4500
-Wire Wire Line
 	3200 3400 3550 3400
-Wire Wire Line
-	3200 3200 3250 3200
 Wire Wire Line
 	3550 3400 3550 3300
 Wire Wire Line
 	3200 3300 3550 3300
 Connection ~ 3550 3300
-Wire Wire Line
-	3550 3300 3550 3200
 Wire Wire Line
 	3550 3400 3550 3500
 Connection ~ 3550 3400
@@ -342,15 +308,8 @@ Wire Wire Line
 Connection ~ 3550 3500
 Wire Wire Line
 	4450 3050 3550 3050
-Wire Wire Line
-	3550 3050 3550 3200
-Connection ~ 3550 3200
-NoConn ~ 3200 4000
-NoConn ~ 3200 4100
-Wire Wire Line
-	3200 4200 3650 4200
-Wire Wire Line
-	3650 4200 3650 3150
+NoConn ~ 3200 3700
+NoConn ~ 3200 3800
 Wire Wire Line
 	3650 3150 4450 3150
 Wire Wire Line
@@ -374,24 +333,13 @@ Wire Wire Line
 Connection ~ 4350 4150
 Connection ~ 3300 4950
 Wire Wire Line
-	2100 3300 1900 3300
-Wire Wire Line
-	1900 3300 1900 5050
-Wire Wire Line
-	1900 5050 4450 5050
+	2100 3300 2050 3300
 Wire Wire Line
 	4450 5050 4450 4750
 Wire Wire Line
 	2100 3200 2050 3200
 Wire Wire Line
 	2050 3200 2050 3050
-Wire Wire Line
-	2050 3050 3250 3050
-Wire Wire Line
-	3250 3050 3250 3200
-Connection ~ 3250 3200
-Wire Wire Line
-	3250 3200 3550 3200
 Connection ~ 2000 4600
 Connection ~ 2000 4300
 Wire Wire Line
@@ -496,20 +444,6 @@ Wire Bus Line
 	3750 5150 1400 5150
 Wire Wire Line
 	4350 4150 4350 4950
-Wire Wire Line
-	3900 4250 4450 4250
-Wire Wire Line
-	3900 4250 3900 4400
-Wire Wire Line
-	3300 4600 3300 3900
-Wire Wire Line
-	3500 4300 3500 4450
-Wire Wire Line
-	3500 4450 4450 4450
-Wire Wire Line
-	3200 4300 3500 4300
-Wire Wire Line
-	3900 4400 3200 4400
 Wire Notes Line
 	5700 5400 1200 5400
 Wire Notes Line
@@ -525,7 +459,7 @@ F 1 "GND" H 3405 2677 50  0000 C CNN
 F 2 "" H 3400 2850 50  0001 C CNN
 F 3 "" H 3400 2850 50  0001 C CNN
 	1    3400 2850
-	1    0    0    -1  
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	3300 2850 3400 2850
@@ -635,6 +569,68 @@ A9 A8 43 EC ED ED 39 2D 23 5F CA 8C 83 10 22 08 42 76 76 36 FB 7C 77 77 F7 BE 7D
 00 49 45 4E 44 AE 42 60 82 
 EndData
 $EndBitmap
+Wire Wire Line
+	3550 3050 3550 3300
+Wire Wire Line
+	2050 3050 3550 3050
+Connection ~ 3550 3050
+Wire Wire Line
+	2050 3200 2050 3300
+Connection ~ 2050 3200
+Wire Wire Line
+	3200 3200 3300 3200
+Connection ~ 3300 3200
+Wire Wire Line
+	3300 3200 3300 2850
+Wire Wire Line
+	2000 2850 2000 3700
+Wire Wire Line
+	2100 3400 1300 3400
+Wire Wire Line
+	1300 3400 1300 5050
+Wire Wire Line
+	1300 5050 4450 5050
+Wire Wire Line
+	3300 3200 3300 3900
+Wire Wire Line
+	3200 4300 3300 4300
+Connection ~ 3300 4300
+Wire Wire Line
+	3300 4300 3300 3900
+Wire Wire Line
+	3300 4300 3300 4950
+NoConn ~ 3200 4500
+NoConn ~ 3200 4600
+Wire Wire Line
+	4450 4250 3600 4250
+Wire Wire Line
+	3600 4250 3600 4100
+Wire Wire Line
+	3500 4000 3500 4350
+Wire Wire Line
+	3200 4200 3400 4200
+Wire Wire Line
+	3400 4200 3400 4450
+Wire Wire Line
+	3400 4450 4450 4450
+Wire Wire Line
+	3200 4100 3600 4100
+Wire Wire Line
+	3500 4350 4450 4350
+Wire Wire Line
+	3200 4000 3500 4000
+Wire Wire Line
+	3200 4400 3350 4400
+Wire Wire Line
+	3350 4400 3350 4550
+Wire Wire Line
+	3350 4550 3650 4550
+Wire Wire Line
+	3650 3150 3650 4550
+Text Notes 5150 5350 0    50   ~ 10
+Adapter side
+Text Notes 8900 5200 0    50   ~ 10
+Logic Board side
 Wire Bus Line
 	3750 3450 3750 5150
 Wire Bus Line
