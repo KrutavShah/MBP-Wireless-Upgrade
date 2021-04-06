@@ -9,7 +9,7 @@ Macbooks manufactured prior to the 2nd half of 2012 like the 2011 MacBook Pro 15
 ## What is the progress so far?
 Tthe Universal Adapter for all MacBooks is available for download and fabrication by downloadin the zip fle in the releases section. Upload it to JLCPCB and select the options that suit you best, such as your desired PCB thickness, PCB color, and specify the order number location so that it is printed where it's not visible. 
 
-![Picture of the MacBook Pro Universal Adapter.](/Images/MBPUniversalAdapter.PNG "Picture of the MacBook Pro Universal Adapter.")
+![Picture of the MacBook Pro Universal Adapter.](/Images/MBPUniversalAdapter.png "Picture of the MacBook Pro Universal Adapter.")
 
 ## So why should you upgrade your MacBook if it is a decade old?
 Well if you're like me and don't want to shell out a lot of money for one of Apple's new offerings, this upgrade can allow you to hold on to your MacBook for longer. With this upgrade, you get a newer version of Bluetooth 4 which allows you to use AirDrop and connect to most modern devices. You also get a much faster WiFi unit which can allow you to achieve speeds of over 1 Gigabit and take full potential of your home network.
