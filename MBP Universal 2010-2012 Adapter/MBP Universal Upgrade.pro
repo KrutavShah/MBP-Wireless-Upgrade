@@ -1,4 +1,4 @@
-update=4/3/2021 5:41:03 PM
+update=4/6/2021 3:55:08 PM
 version=1
 last_client=kicad
 [general]
@@ -27,7 +27,7 @@ version=1
 PageLayoutDescrFile=
 LastNetListRead=MBP 15 Inch A1286 Upgrade.net
 CopperLayerCount=2
-BoardThickness=1.6
+BoardThickness=0.6
 AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
