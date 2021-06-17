@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MBP Universal Upgrade.PrjPcb]
+   Generated File[MBP Universal Upgrade.TXT]
+   Generated File[MBP Universal Upgrade.LDP]
+   Generated File[MBP Universal Upgrade.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:25:34 AM On 6/17/2021
