@@ -1,12 +1,19 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [MBP Universal Upgrade.PrjPcb]
-   Generated File[MBP Universal Upgrade.TXT]
-   Generated File[MBP Universal Upgrade.LDP]
-   Generated File[MBP Universal Upgrade.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [MBP Universal Upgrade.PrjPcb]
+   Generated File[MBP Universal Upgrade.GTO]
+   Generated File[MBP Universal Upgrade.GTS]
+   Generated File[MBP Universal Upgrade.GTL]
+   Generated File[MBP Universal Upgrade.GBL]
+   Generated File[MBP Universal Upgrade.GBS]
+   Generated File[MBP Universal Upgrade.GBO]
+   Generated File[MBP Universal Upgrade.GM1]
+   Generated File[MBP Universal Upgrade.RUL]
+   Generated File[MBP Universal Upgrade.EXTREP]
+   Generated File[MBP Universal Upgrade.REP]
 
 
-Files Generated   : 3
+Files Generated   : 10
 Documents Printed : 0
 
-Finished Output Generation At 10:25:34 AM On 6/17/2021
+Finished Output Generation At 10:49:07 PM On 6/19/2021

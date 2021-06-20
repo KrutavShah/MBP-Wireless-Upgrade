@@ -2,43 +2,6 @@
 FileName = MBP Universal Upgrade.GBR
 AutoAperture = True
 *************************************************************
-Generating : B.Mask
-      File : MBP Universal Upgrade.GBS
-
-    Adding Layer      : B.Mask
-
-    Adding Layer      : B.Cu
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Margin
-      File : MBP Universal Upgrade.GM1
-
-    Adding Layer      : Margin
-
-
-Used DCodes :
-    D21
-*************************************************************
-
-*************************************************************
-Generating : B.SilkS
-      File : MBP Universal Upgrade.GBO
-
-    Adding Layer      : B.SilkS
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
 Generating : F.Cu
       File : MBP Universal Upgrade.GTL
 
@@ -59,22 +22,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : F.Mask
-      File : MBP Universal Upgrade.GTS
+Generating : F.SilkS
+      File : MBP Universal Upgrade.GTO
 
-    Adding Layer      : F.Mask
-
-    Adding Layer      : F.Cu
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : F.SilkS
 
 
 Used DCodes :
-    D11
-    D12
-    D13
-    D14
-    D15
+    D10
 *************************************************************
 
 *************************************************************
@@ -95,13 +50,58 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : F.SilkS
-      File : MBP Universal Upgrade.GTO
+Generating : B.Mask
+      File : MBP Universal Upgrade.GBS
 
-    Adding Layer      : F.SilkS
+    Adding Layer      : B.Mask
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : B.SilkS
+      File : MBP Universal Upgrade.GBO
+
+    Adding Layer      : B.SilkS
 
 
 Used DCodes :
     D10
+*************************************************************
+
+*************************************************************
+Generating : Margin
+      File : MBP Universal Upgrade.GM1
+
+    Adding Layer      : Margin
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : F.Mask
+      File : MBP Universal Upgrade.GTS
+
+    Adding Layer      : F.Mask
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 
