@@ -2,21 +2,6 @@
 FileName = MBP Universal Upgrade.GBR
 AutoAperture = True
 *************************************************************
-Generating : B.Mask
-      File : MBP Universal Upgrade.GBS
-
-    Adding Layer      : B.Mask
-
-    Adding Layer      : B.Cu
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-*************************************************************
-
-*************************************************************
 Generating : Margin
       File : MBP Universal Upgrade.GM1
 
@@ -39,23 +24,18 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : F.Cu
-      File : MBP Universal Upgrade.GTL
+Generating : B.Mask
+      File : MBP Universal Upgrade.GBS
 
-    Adding Layer      : F.Cu
+    Adding Layer      : B.Mask
+
+    Adding Layer      : B.Cu
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
-    D12
-    D13
-    D14
-    D16
-    D17
-    D18
-    D19
+    D15
 *************************************************************
 
 *************************************************************
@@ -75,6 +55,26 @@ Used DCodes :
     D13
     D14
     D15
+*************************************************************
+
+*************************************************************
+Generating : F.Cu
+      File : MBP Universal Upgrade.GTL
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D16
+    D17
+    D18
+    D19
 *************************************************************
 
 *************************************************************
