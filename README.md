@@ -9,7 +9,7 @@ Macbooks manufactured prior to the 2nd half of 2012 like the 2011 MacBook Pro 15
 ## What is the progress so far?
 Tthe Universal Adapter for all MacBooks is available for download and fabrication by downloadin the zip fle in the releases section. Upload it to JLCPCB and select the options that suit you best, such as your desired PCB thickness, PCB color, and specify the order number location so that it is printed where it's not visible. 
 
-![Picture of the MacBook Pro Universal Adapter inside a MacBook Pro 2011.](/Images/InstalledMBPUniversalAdapter.jpg "Picture of the MacBook Pro Universal Adapter inside a MacBook Pro 2011.")
+![Picture of the MacBook Pro Universal Adapter inside a MacBook Pro 2011.](https://github.com/KrutavShah/MBP-Wireless-Upgrade/blob/master/Images/InstalledMBPUniversalAdpater.JPG "Picture of the MacBook Pro Universal Adapter inside a MacBook Pro 2011.")
 ![Picture of the MacBook Pro Universal Adapter.](/Images/MBPUniversalAdapter.png "Picture of the MacBook Pro Universal Adapter.")
 
 ## So why should you upgrade your MacBook if it is a decade old?
